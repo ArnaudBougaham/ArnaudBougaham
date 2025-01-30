@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on my PhD in Applied Artificial Intelligence
+- 🌱 I’m currently learning medical imaging reconstruction
+- 👯 I’m looking to collaborate on industrial or medical anomaly detection
+- 💬 Ask me about generative model and critical binary classification
+
+![](https://komarev.com/ghpvc/?username=ArnaudBougaham)
+  
 <!--
 **ArnaudBougaham/ArnaudBougaham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
