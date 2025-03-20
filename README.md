@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on my PhD in Applied Artificial Intelligence
-- 🌱 I’m currently learning medical imaging reconstruction
-- 👯 I’m looking to collaborate on industrial or medical anomaly detection
+- 🔭 Working on my PhD in Applied Artificial Intelligence
+- 🌱 Developing industrial & medical imaging reconstruction tools
+- 👯 Looking to collaborate on industrial or medical anomaly detection
+- ⚡ Teaching AI & Big Data in engineering schools and universities
+- 📫 Contact me here : linkedin.com/in/arnaud-bougaham
 - 💬 Ask me about generative model and critical binary classification
 
 ![](https://komarev.com/ghpvc/?username=ArnaudBougaham)
