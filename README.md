@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 Working on my PhD in Applied Artificial Intelligence
+- 🔭 PhD in Applied Artificial Intelligence
 - 🌱 Developing industrial & medical imaging reconstruction tools
 - 👯 Looking to collaborate on industrial or medical anomaly detection
 - ⚡ Teaching AI & Big Data in engineering schools and universities
